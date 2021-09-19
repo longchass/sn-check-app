@@ -45,7 +45,7 @@ router.get(
     
     // Set up request
     var bodyJsonObj = {
-      "expandAllMinorToMajor": false,
+    "expandAllMinorToMajor": false,
     "fields": [],
     "filters": {
     "aggregationsOnly": false,
@@ -296,6 +296,7 @@ router.get(
     });
   }
 );
+//Does not work and not using at the moment
 router.get(
   "/check-sn-2/:sn",
   pupperteer.readSession,
