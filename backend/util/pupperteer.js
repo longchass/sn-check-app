@@ -218,7 +218,7 @@ const autoLogin = async (req, res, next) => {
 
     await next()
 }
-
+//Do not use
 const betterAutoLoginPromise = () =>{
     console.log('logging in from better promise')
     return new Promise(async (resolve,reject) =>{
@@ -296,7 +296,7 @@ const betterAutoLoginPromise = () =>{
     })
 }
 
-// make a promise
+// make a promise, Do not use
 const autologinPromise = () => {
     return new Promise(async (resolve, reject) => {
         const username = "peter.do@innetsol.com";

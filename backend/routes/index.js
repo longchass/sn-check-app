@@ -2,10 +2,10 @@ const express = require("express");
 const router = express.Router();
 const pupperteer = require("../util/pupperteer");
 const request = require("request");
-const Product = require("../models").Product;
-const SerialNumber = require('../models').SerialNumber;
-const EndCustomer = require('../models').EndCustomer;
-const database = require("../util/database");
+//const Product = require("../models").Product;
+//const SerialNumber = require('../models').SerialNumber;
+//const EndCustomer = require('../models').EndCustomer;
+//const database = require("../util/database");
 const logger = require("../util/winston-logger");
 const { generate_token_and_getdata } = require("../middleware/product");
 
@@ -29,7 +29,7 @@ router.get("/authToken", pupperteer.readSession, async (req, res) => {
   res.send(req.auth);
 });
 
-
+//Using this function to check
 // check the SN, the readSession function is to read the Authorization code that has been stored
 // when login to cisco site 
 router.get(
@@ -73,39 +73,50 @@ router.get(
       body: bodyJsonObj
       
     };
+    /** 
     const querySN = await SerialNumber.findOne({
       where:{
         serialNumber:query,
       },
       include:['Product','EndCustomer']
     })
+    */
+    await request(options, async (error, response, body) => {
+      if (error) {
+        return res.status(500).end('Got request Cisco error');
+      }
+      if (response.statusCode === 401) {
+         return res.status(500).end('Error 401. Can not generate new token. Check crontask login');
+      }
+      
+      let jsonBody = await body;
+      //console.log("json Body hereeee"+JSON.stringify(jsonBody.data[0]))
+      
+      
+      if(jsonBody.totalRecords === 0){
+        return res.status(500).end('No matching SN in Cisco')
+      }
+
+      res.send(jsonBody)
+    })
+    /** 
     if(isEmpty(querySN)){
       await request(options, async (error, response, body) => {
         if (error) {
           return res.status(500).end('Got request Cisco error');
         }
         if (response.statusCode === 401) {
-          
            return res.status(500).end('Error 401. Can not generate new token. Check crontask login');
-          //  
-          // return res.status(401).end(req.auth);
         }
-        //console.log('body: '+JSON.parse(body))
-        //let bodyParser = JSON.parse(body);
+        
         let jsonBody = await body;
-        console.log("json Body hereeee"+JSON.stringify(jsonBody.data[0]))
+        //console.log("json Body hereeee"+JSON.stringify(jsonBody.data[0]))
         
         
         if(jsonBody.totalRecords === 0){
           return res.status(500).end('No matching SN in Cisco')
         }
-        // try {
-        //   await look_up_sn_array(jsonBody);
-        // } catch (e) {
-        //   logger.error(e);
-        // }
-  
-        //await database.exportAsFile(bodyParser);
+        
       console.log(jsonBody.data[0].disabledLineFlagMsgs+"------------------------------------------")
       let serialNumber = {
         serialNumber: jsonBody.data[0].serialNumber,
@@ -191,10 +202,10 @@ router.get(
     } else{ // If found QuerySN
       res.send(querySN)
     }
-    
+    */
   }
 );
-
+/**
 router.get("/query/:sn",async function(req,res,next){
   const query = await req.params.sn;
 
@@ -207,7 +218,8 @@ router.get("/query/:sn",async function(req,res,next){
   
   res.send(isEmpty(sn))
 })
-
+ */
+//Does not work
 router.get("/reload/:sn", pupperteer.readSession, async function (req, res, next){
   const query = await req.params.sn
   const auth = await req.auth;
