@@ -42,7 +42,8 @@ router.get(
     const auth = await req.auth;
     let limit = req.query.limit ? req.query.limit : "200";
     const url ="https://ccrc.cisco.com/ServiceContract/ccrcsearch/oneview/lines";
-
+    
+    // Set up request
     var bodyJsonObj = {
       "expandAllMinorToMajor": false,
     "fields": [],
@@ -65,14 +66,33 @@ router.get(
     'Request-Id': 123456,
     "subscriber": "oneview-ui"
   }
-    const options = {
-      method: "POST",
-      url: url,
-      json: true,
-      headers:header,
-      body: bodyJsonObj
-      
-    };
+  const options = {
+    method: "POST",
+    url: url,
+    json: true,
+    headers:header,
+    body: bodyJsonObj
+    
+  };
+  //Send request for checking sn
+  await request(options, async (error, response, body) => {
+    if (error) {
+      return res.status(500).end('Got request Cisco error');
+    }
+    if (response.statusCode === 401) {
+        return res.status(500).end('Error 401. Can not generate new token. Check crontask login');
+    }
+    
+    let jsonBody = await body;
+    //console.log("json Body hereeee"+JSON.stringify(jsonBody.data[0]))
+    
+    
+    if(jsonBody.totalRecords === 0){
+      return res.status(500).end('No matching SN in Cisco')
+    }
+
+    res.send(jsonBody)
+  })
     /** 
     const querySN = await SerialNumber.findOne({
       where:{
@@ -81,24 +101,7 @@ router.get(
       include:['Product','EndCustomer']
     })
     */
-    await request(options, async (error, response, body) => {
-      if (error) {
-        return res.status(500).end('Got request Cisco error');
-      }
-      if (response.statusCode === 401) {
-         return res.status(500).end('Error 401. Can not generate new token. Check crontask login');
-      }
-      
-      let jsonBody = await body;
-      //console.log("json Body hereeee"+JSON.stringify(jsonBody.data[0]))
-      
-      
-      if(jsonBody.totalRecords === 0){
-        return res.status(500).end('No matching SN in Cisco')
-      }
-
-      res.send(jsonBody)
-    })
+    // Below is related to database so will be temporarily disabled
     /** 
     if(isEmpty(querySN)){
       await request(options, async (error, response, body) => {
