@@ -1,0 +1,7 @@
+node_modules
+.gitignore
+.env
+client/.env
+client/node_modules
+client/package-lock.json
+client/README.md

@@ -1,0 +1,45 @@
+2019-10-08T09:37:27: PM2 log: ===============================================================================
+2019-10-08T09:37:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-10-08T09:37:27: PM2 log: Time                 : Tue Oct 08 2019 09:37:27 GMT+1100 (AEDT)
+2019-10-08T09:37:27: PM2 log: PM2 version          : 3.5.1
+2019-10-08T09:37:27: PM2 log: Node.js version      : 8.16.0
+2019-10-08T09:37:27: PM2 log: Current arch         : x64
+2019-10-08T09:37:27: PM2 log: PM2 home             : /home/joeln/.pm2
+2019-10-08T09:37:27: PM2 log: PM2 PID file         : /home/joeln/.pm2/pm2.pid
+2019-10-08T09:37:27: PM2 log: RPC socket file      : /home/joeln/.pm2/rpc.sock
+2019-10-08T09:37:27: PM2 log: BUS socket file      : /home/joeln/.pm2/pub.sock
+2019-10-08T09:37:27: PM2 log: Application log path : /home/joeln/.pm2/logs
+2019-10-08T09:37:27: PM2 log: Process dump file    : /home/joeln/.pm2/dump.pm2
+2019-10-08T09:37:27: PM2 log: Concurrent actions   : 2
+2019-10-08T09:37:27: PM2 log: SIGTERM timeout      : 1600
+2019-10-08T09:37:27: PM2 log: ===============================================================================
+2019-10-08T09:37:27: PM2 log: App [app:0] starting in -fork mode-
+2019-10-08T09:37:27: PM2 log: App [app:0] online
+2019-10-08T09:43:38: PM2 log: Stopping app:app id:0
+2019-10-08T09:43:39: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2019-10-08T09:43:40: PM2 log: pid=65724 msg=process killed
+2019-10-08T09:46:04: PM2 log: App [app:0] starting in -fork mode-
+2019-10-08T09:46:04: PM2 log: App [app:0] online
+2019-10-14T15:05:36: PM2 log: App [app:0] exited with code [0] via signal [SIGKILL]
+2019-10-14T15:05:36: PM2 log: App [app:0] starting in -fork mode-
+2019-10-14T15:05:37: PM2 log: App [app:0] online
+2019-11-26T14:41:08: PM2 log: ===============================================================================
+2019-11-26T14:41:08: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-11-26T14:41:08: PM2 log: Time                 : Tue Nov 26 2019 14:41:08 GMT+1100 (AEDT)
+2019-11-26T14:41:08: PM2 log: PM2 version          : 3.5.1
+2019-11-26T14:41:08: PM2 log: Node.js version      : 8.16.0
+2019-11-26T14:41:08: PM2 log: Current arch         : x64
+2019-11-26T14:41:08: PM2 log: PM2 home             : /home/joeln/.pm2
+2019-11-26T14:41:08: PM2 log: PM2 PID file         : /home/joeln/.pm2/pm2.pid
+2019-11-26T14:41:08: PM2 log: RPC socket file      : /home/joeln/.pm2/rpc.sock
+2019-11-26T14:41:08: PM2 log: BUS socket file      : /home/joeln/.pm2/pub.sock
+2019-11-26T14:41:08: PM2 log: Application log path : /home/joeln/.pm2/logs
+2019-11-26T14:41:08: PM2 log: Process dump file    : /home/joeln/.pm2/dump.pm2
+2019-11-26T14:41:08: PM2 log: Concurrent actions   : 2
+2019-11-26T14:41:08: PM2 log: SIGTERM timeout      : 1600
+2019-11-26T14:41:08: PM2 log: ===============================================================================
+2019-11-26T14:41:39: PM2 log: App [app:0] starting in -fork mode-
+2019-11-26T14:41:39: PM2 log: App [app:0] online
+2019-11-26T14:48:25: PM2 log: Stopping app:app id:0
+2019-11-26T14:48:25: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2019-11-26T14:48:25: PM2 log: pid=110699 msg=process killed

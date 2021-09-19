@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "ipsapp_dev_team",
+    "password": "DevTeam#12",
+    "database": "ipsapp_cisco_sn_check",
+    "host": "192.168.5.8",
+    "port": "3306",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "serialnumber",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "ipsapp_dev_team",
+    "password": "DevTeam#12",
+    "database": "ipsapp_cisco_sn_check",
+    "host": "192.168.5.8",
+    "port": "3306",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}

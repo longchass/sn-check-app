@@ -1,0 +1,447 @@
+Westpac Online Investment Loan
+Approved Securities List - Effective 2 August 2019
+ASX listed securities
+ASX Code Security Name LVR ASX Code Security Name LVR
+3PL 3P Learning Limited 45% CCL Coca Cola Amatil Limited 75%
+A2B A2B Australia Limited 50% CCP Credit Corp Group 50%
+A2M The a2 Milk Company Limited 50% CCX City Chic Collective Limited 40%
+ABC Adelaide Brighton Limited 65% CDA Codan Limited 45%
+ABP Abacus Property Group 60% CDD Cardno Limited 40%
+ADH Adairs Limited 40% CDP Carindale Property Trust 50%
+ADI APN Industria REIT 40% CGC Costa Group Holdings 50%
+AFG Australian Finance Group Limited 40% CGF Challenger Financial Services Group Ltd 65%
+AFI Australian Foundation Investment Co. Ltd 75% CGFPA Challenger Capital Notes 65%
+AGG AngloGold Ashanti Limited 50% CGFPB Challenger Capital Notes 2 65%
+AGI Ainsworth Game Technology 40% CHC Charter Hall Group 60%
+AGL AGL Energy Limited 75% CIA Champion Iron Limited 40%
+AHG Automotive Holdings Group Limited 40% CIM Cimic Group Limited 65%
+AHY Asaleo Care Limited 45% CIN Carlton Investments Limited 60%
+AIA Auckland International Airport Limited 60% CIP Centuria Industrial REIT 50%
+AIZ Air New Zealand Limited 50% CKF Collins Foods Limited 50%
+ALF Australian Leaders Fund Limited 50% CL1 Class Limited 45%
+ALG Ardent Leisure Group 55% CLH Collection House Limited 45%
+ALI Argo Global Listed Infrastructure Limited 60% CLW Charter Hall Long Wale Reit 50%
+ALL Aristocrat Leisure Limited 65% CMA Centuria Metropolitan REIT 50%
+ALQ Als Limited 65% CMW Cromwell Group 60%
+ALU Altium Limited 50% CNU Chorus Limited 60%
+ALX Atlas Arteria 60% COH Cochlear Limited 70%
+AMA AMA Group Limited 40% COL Coles Group Limited 75%
+AMC Amcor Limited 75% CPU Computershare Limited 70%
+AMH Amcil Limited 50% CQE Charter Hall Education Trust 50%
+AMP AMP Limited 60% CQR Charter Hall Retail Reit 60%
+AMPPA AMP Limited Cap Note Deferred Settlement 60% CRN Coronado Global Resources Inc. 50%
+ANN Ansell Limited 75% CSL CSL Limited 75%
+ANZ ANZ Banking Group Limited 75% CSR CSR Limited 65%
+ANZPD ANZ Capital Notes 75% CTD Corporate Travel Management Limited 55%
+ANZPE ANZ Capital Notes 2 75% CTX Caltex Australia Limited 70%
+ANZPF ANZ Capital Notes 3 75% CWN Crown Limited 70%
+ANZPG ANZ Capital Notes 4 75% CWNHB Crown Resorts Ltd Subordinated Notes II 70%
+ANZPH ANZ Capital Notes 5 75% CWP Cedar Woods Properties Limited 45%
+AOG Aveo Group 50% CWY Cleanaway Waste Limited 55%
+APA APA Group 70% CYB CYBG PLC 65%
+APE AP Eagers Ltd 50% DCG Decmil Group Limited 45%
+API Australian Pharmaceutical Industries Limited 45% DDR Dicker Data Limited 45%
+APL Antipodes Global Investment Company Limited 55% DHG Domain Holdings Australia 60%
+APT Afterpay Touch Group Limited 40% DJW Djerriwarrh Investments Limited 60%
+APX Appen Limited 45% DLX Duluxgroup Limited 65%
+AQG Alacer Gold Corp. 50% DMP Domino's Pizza Enterprises Limited 65%
+AQR APN Convenience Retail REIT 40% DOW Downer EDI Limited 60%
+ARB ARB Corporation Limited 70% DTL Data#3 Limited 45%
+ARF Arena REIT 55% DUI Diversified United Investment Limited 60%
+ARG Argo Investments Limited 75% DXS Dexus Property Group 70%
+ASB Austal Limited 50% EHE Estia Health Limited 50%
+ASL Ausdrill Limited 40% ELD Elders Limited 50%
+AST AusNet Services Limited 70% EML EML Payments Limited 40%
+ASX ASX Limited 70% ENN Elanor Investors Group 45%
+AUB Austbrokers Holdings Limited 60% EPW ERM Power Limited 45%
+AUI Australian United Investment Company Ltd 70% EVN Evolution Mining Limited 60%
+AVG Australian Vintage Ltd 45% EVT Event Hospitality & Entertainment Limited 60%
+AVN Aventus Group 60% FBU Fletcher Building Limited 65%
+AWC Alumina Limited 55% FLT Flight Centre Limited 65%
+AX1 Accent Group Limited 50% FMG Fortescue Metal Group Limited 60%
+AZJ Aurizon Holdings Limited 75% FNP Freedom Foods Group Limited 50%
+BAL Bellamy's Australia Limited 45% FOR Forager Australian Shares 50%
+BAP Bapcor Limited 60% FPH Fisher & Paykel Healthcare Corp Limited 60%
+BBN Baby Bunting Group Limited 45% FSF Fonterra Shareholders Fund 50%
+BEN Bendigo and Adelaide Bank Limited 70% FXL Flexigroup Limited 45%
+BENPE BEN Convertible Preference Shares 2 70% GBT GBST Holdings Limited ** 50%
+BENPF BEN Convertible Preference Shares 3 70% GDF Garda Diversified Property Fund 40%
+BENPG BEN Convertible Preference Shares 4 70% GDI GDI Property Group 50%
+BFG Bell Financial Group Limited 45% GEM G8 Education Limited 50%
+BGA Bega Cheese Limited 55% GMA Genworth Mortgage Insurance Aust Ltd 60%
+BHP BHP Billiton Limited 75% GMG Goodman Group 70%
+BIN Bingo Industries Limited 45% GNC Graincorp Limited 65%
+BKI Brickworks Investment Company Limited 60% GNE Genesis Energy Limited 50%
+BKL Blackmores Limited 60% GOZ Growthpoint Properties Australia 60%
+BKW Brickworks Limited 65% GPT GPT Group 70%
+BLD Boral Limited 70% GROW Schroder Real Return (managed) Fund 75%
+BLX Beacon Lighting Group Limited 40% GUD G.U.D. Holdings Limited 60%
+BOQ Bank of Queensland Limited 70% GWA GWA Group Limited 70%
+BOQPE Bank of Queensland Ltd Capital Notes Off 70% GXY Galaxy Resources Limited 40%
+BPT Beach Energy Limited 55% HBRD BetaShares Capital Limited 75%
+BRG Breville Group Limited 65% HLS Healius Limited 60%
+BSL Bluescope Steel Limited 65% HM1 Hearts and Minds Investments Limited 60%
+BVS Bravura Solutions Limited 40% HPI Hotel Property Investments 40%
+BWP Bunnings Warehouse Property Trust 65% HSN Hansen Technologies Ltd 50%
+BWX BWX Limited 40% HT1 HT&E Limited 40%
+BXB Brambles Limited 75% HUB HUB24 Limited 45%
+CAR Carsales.com Limited 65% HUO Huon Aquaculture Group Limited 55%
+CBA Commonwealth Bank of Australia 75% HVN Harvey Norman Holdings Limited 70%
+CBAPD CommBank PERLS VII Capital Notess 75% IAG Insurance Australia Group Limited 75%
+CBAPE CommBank PERLS VIII Capital Notes 75% IAGPD IAG Capital Notes Deferred Settlement 75%
+CBAPF CBA Perls IX Capital Notes 75% IANG IAG Finance (NZ) Limited - Perpet. Reset 75%
+CBAPG CBA Perls X Capital Notes 75% IDX Integral Diagnostics Limited 40%
+CBAPH CommBank PERLS XI Capital Notes 75%
+ALL RATIOS ARE AVAILABLE ON OUR WEBSITE: <http://www.westpac.com.au>
+ * Security is currently near its maximum. Westpac sets a maximum number of shares that it will accept as security for loans. Westpac may not be able to accept any further shares.
+ ** Security is currently at its maximum. No further lending is accepted against this security.
+ALL LENDING RATIOS ARE SUBJECT TO CHANGE WITHOUT NOTICE.
+PLEASE CONTACT OUR CUSTOMER RELATIONS CONSULTANTS FOR FURTHER INFORMATION ON 1300 551 744.
+Indicates a change in LVR from last month.
+The information in this document forms part of the Westpac Online Investment Loan - Product Disclosure Statement issued on 31 October 2018 by Westpac Banking Corporation ABN 33 007 457 141 and BT Securities
+Limited ABN 84 000 720 114.
+Westpac Online Investment Loan
+Approved Securities List - Effective 2 August 2019
+ASX Code Security Name LVR ASX Code Security Name LVR
+IEM iShares MSCI Emerging Markets 60% PAXX The Platinum Trust - Platinum Asia Fund 65%
+IEU iShares S&P Europe 350 75% PDL Pendal Group Limited 65%
+IFL IOOF Holdings Limited 50% PFP Propel Funeral Partners Limited 50%
+IFM Infomedia Ltd. 45% PGC Paragon Care Limited 40%
+IGL IVE Group Limited 45% PGH Pact Group Holdings Limited 55%
+IGO Independence Group NL 60% PIA Pengana International Equities Limited 60%
+IJH iShares S&P Midcap 400 70% PIC Perpetual Equity Investment Company Limited 60%
+IJP iShares MSCI Japan 75% PIXX The Platinum Trust - Platinum International Fund 70%
+IJR iShares S&P Smallcap 600 65% PL8 Plato Income Maximiser Limited 60%
+ILU Iluka Resources Limited 65% PMC Platinum Capital Limited 55%
+IMD Imdex Limited 40% PMV Premier Investments Limited 65%
+IMF IMF Bentham Limited 50% PNI Pinnacle Investment Management Group Limited 50%
+INA Ingenia Communities Group 50% PPC Peet Limited 50%
+ING Inghams Group Limited 55% PPS Praemium Limited 40%
+IOO iShares S&P Global 100 75% PPT Perpetual Limited 65%
+IPH IPH Limited 50% PRU Perseus Mining Limited 40%
+IPL Incitec Pivot Limited 65% PTM Platinum Asset Management Limited 65%
+IRE IRESS Market Technology Limited 65% PWH PWR Holdings Limited 40%
+ISU iSelect Limited 45% QAN Qantas Airways Limited 70%
+IVC InvoCare Limited 65% QBE QBE Insurance Group Limited 75%
+IVE iShares MSCI EAFE 75% QUB Qube Logistics 65%
+IVV iShares S&P 500 75% QUBHA Qube Holdings Ltd Subordinated Notes 65%
+IXJ iShares Trust - iShares Global Healthcare ETF 75% QVE QV Equities Limited 60%
+IZZ iShares Ftse/Xinhua China 25 55% RDC Redcape Hotel Group 40%
+JBH JB Hi-Fi Limited 70% REA REA Group Ltd 65%
+JHC Japara Healthcare Limited 50% REG Regis Healthcare Limited 50%
+JHG Janus Henderson Group PLC 65% RFF Rural Funds Group 50%
+JHX James Hardie Industries N.V. 70% RHC Ramsay Health Care Limited 75%
+JIN Jumbo Interactive Limited 40% RHCPA Ramsay Health Care Limited - CARES 75%
+JLG Johns Lyng Group Limited 40% RHL Ruralco Holdings Limited 50%
+KGN Kogan.com Limited 45% RIC Ridley Corporation Limited 60%
+KMD Kathmandu Holdings Ltd 50% RIO Rio Tinto Limited 75%
+KSL Kina Securities Limited 40% RMD Resmed Inc 75%
+LEP ALE Property Group - Stapled Secs 60% RMS Ramelius Resources Limited 40%
+LIC Lifestyle Communities Limited 40% RRL Regis Resources Limited 50%
+LLC Lend Lease Corporation Limited 70% RSG Resolute Mining Limited 45%
+LNK Link Administration Holdings Limited 65% RWC Reliance Worldwide 50%
+LOV Lovisa Holdings Limited 45% S32 South32 Limited 75%
+LYC Lynas Corporation Limited 40% SBM St Barbara Limited 50%
+MBLHB Macquarie Bank Limited Income Securities 75% SCG Scentre Group 75%
+MBLPA Macquarie Bank Limited Convertible Unsec 75% SCP Shopping Centres Australasia Property Group 65%
+MEZ Meridian Energy Limited 60% SDA SpeedCast International Limited 45%
+MFF Magellan Flagship Fund Limited 60% SDF Steadfast Group Limited 60%
+MFG Magellan Financial Group Limited 65% SEC Spheria Emerging Companies Limited 50%
+MGE Magellan Global Equities Fund (Managed Fund) 75% SEK Seek Limited 70%
+MGG Magellan Global Trust 60% SFR Sandfire Resources NL 50%
+MGR Mirvac Group - Stapled Securities 70% SGF SG Fleet Group Limited 45%
+MIN Mineral Resources Limited 55% SGM Sims Group Limited 65%
+MIR Mirrabooka Investments Limited 60% SGP Stockland 70%
+MLD MACA Limited 40% SGR The Star Entertainment Group Limited 75%
+MLT Milton Corporation Limited 75% SHL Sonic Healthcare Limited 75%
+MMS McMillan Shakespeare Limited 65% SHV Select Harvests Limited 50%
+MND Monadelphous Group Limited 65% SIG Sigma Health Limited 50%
+MNF MNF Group Limited 40% SKC Sky City Entertainment Group Limited 70%
+MNY Money3 Corporation Limited 45% SKI Spark Infrastructure Group 70%
+MOC Mortgage Choice Limited 40% SKT Sky Network Television Limited 40%
+MOGL Montgomery Global Equities Fund (MF) 70% SLF Spdr S&P/ASX 200 Listed Property Fund 65%
+MPL Medibank Private Limited 75% SLK SeaLink Travel Group Limited 50%
+MQG Macquarie Group Limited 75% SM1 Synlait Milk Limited 50%
+MQGPB Macquarie Group Ltd Capital Note 2 75% SOL Washington H Soul Pattinson & Co Limited 65%
+MQGPC Macquarie Group Ltd Capital Notes 3 75% SPK Spark New Zealand Limited 70%
+MQGPD Macquarie Group Ltd Capital Notes 4 75% SRG SRG Global Limited 40%
+MTS Metcash Limited 65% SRV Servcorp Limited 40%
+MVF Monash IVF Group Limited 50% SSM Service Stream Limited 45%
+MVP Medical Developments International Limited 40% STO Santos Limited 65%
+MYS MyState Limited 55% SUL Super Cheap Auto Group Limited 65%
+MYX Mayne Pharma Limited 50% SUN Suncorp Metway Limited 75%
+NAB National Australia Bank Limited 75% SUNPE Suncorp Group Limited CPS3 75%
+NABHA National Aust Bank - Income Securities 75% SUNPF Suncorp Group Ltd Capital Notes 75%
+NABPB NAB Convertible Preference Shares II 75% SUNPG Suncorp Group Ltd Capital Notes 2 75%
+NABPC NAB Capital Notes 75% SVW Seven Group Holdings Limited 70%
+NABPD NAB Capital Notes 2 75% SWM Seven West Media Limited 50%
+NABPE NAB Subordinated Notes 2 75% SXL Southern Cross Media Group 50%
+NABPF NAB Capital Notes 3 75% SXY Senex Energy Limited 40%
+NCK Nick Scali Limited 50% SYD Sydney Airport 70%
+NCM Newcrest Mining Limited 70% TAH Tabcorp Holdings Limited 75%
+NEA Nearmap Ltd 40% TCL Transurban Group 70%
+NEC Nine Entertainment Co. 60% TGG Templeton Global Growth Fund 60%
+NFNG Convert Bond 6-Bbsw+1.90% Perp Sub Non-Cum Exh Stp 65% TGR Tassal Group Limited 55%
+NGI Navigator Global Investments Limited 40% TLS Telstra Corporation Limited 75%
+NHC New Hope Corporation Limited 50% TNE Technology One Limited 55%
+NHF NIB Holdings Ltd Ord Fully Paid 65% TPM TPG Telecom Limited 65%
+NSR National Storage REIT 55% TWE Treasury Wine Estates Limited 70%
+NST Northern Star Resources Limited 50% URW Unibail-Rodamco-Westfield 75%
+NUF Nufarm Limited 65% VCX Vicinity Centres 75%
+NWH NRW Holdings Limited 35% VEA Viva Energy Group Limited 60%
+NWL Netwealth Group Limited 50% VLW Villa World Limited 50%
+NWS News Corp - Class B CDI 70% VOC Vocus Communications Limited 45%
+NWSLV News Corporation 70% VRL Village Roadshow Limited 45%
+NXT NEXTDC Limited 45% VRT Virtus Health Limited 50%
+OFX OzForex Group Ltd 50% VTG Vita Group Limited 40%
+OGC OceanaGold Corporation 55% VVR Viva Energy REIT 60%
+OML Ooh!Media Limited 50% WBA Webster Limited 45%
+ORA Orora Limited 70% WBC Westpac Banking Corporation 75%
+ORG Origin Energy Limited 70% WBCPE WBC Capital Notes 2 75%
+ORI Orica Limited 75% WBCPF Westpac Capital Notes 3 75%
+OSH Oil Search Limited 65% WBCPG Westpac Capital Notes 4 75%
+OZL Oz Minerals Limited 60% WBCPH Westpac Capital Notes 5 75%
+PAI Platinum Asia Investments Limited 55% WBCPI Westpac Capital Notes 6 75%
+ALL LENDING RATIOS ARE SUBJECT TO CHANGE WITHOUT NOTICE.
+PLEASE CONTACT OUR CUSTOMER RELATIONS CONSULTANTS FOR FURTHER INFORMATION ON 1300 551 744.
+ALL RATIOS ARE AVAILABLE ON OUR WEBSITE: <http://www.westpac.com.au>
+ * Security is currently near its maximum. Westpac sets a maximum number of shares that it will accept as security for loans. Westpac may not be able to accept any further shares.
+ ** Security is currently at its maximum. No further lending is accepted against this security.
+Indicates a change in LVR from last month.
+The information in this document forms part of the Westpac Online Investment Loan - Product Disclosure Statement issued on 31 October 2018 by Westpac Banking Corporation ABN 33 007 457 141 and BT Securities
+Limited ABN 84 000 720 114.
+Westpac Online Investment Loan
+Approved Securities List - Effective 2 August 2019
+ASX Code Security Name LVR ASX Code Security Name LVR
+WEB Webjet Ltd. 60% WOW Woolworths Limited 75%
+WES Wesfarmers Limited 75% WPL Woodside Petroleum Limited 75%
+WGN Wagners Holding Company Limited 45% WPP WPP AUNZ Limited 40%
+WGX Westgold Resources Limited 45% WSA Western Areas NL 40%
+WHC Whitehaven Coal Limited 55% WTC Wisetech Global Limited 45%
+WOR WorleyParsons Limited 60% XRO Xero Limited. 50%
+Exchange Traded Funds
+ASX Code Security Name LVR ASX Code Security Name LVR
+A200 BetaShares Australia 200 ETF 75% OZR SPDR S&P/ASX 200 Resources Fund 70%
+AAA BetaShares Australian High Interest Cash ETF 75% OZR SPDR S&P/ASX 200 Resources Fund 70%
+ACDC ETFS Battery Tech & Lithium ETF 50% QOZ BetaShares FTSE RAFI Australia 200 ETF 75%
+AUST BetaShares Managed Risk Aust Share Fund 75% QPON BetaShares Australian Bank Senior Floating Rate Bond ETF 75%
+BILL iShares Core Cash ETF 75% QUAL VanEck Vectors MSCI World ex Australia Quality ETF 75%
+BNKS BetaShares Global Banks ETF - Currency Hedged 70% QUS BetaShares FTSE RAFI U.S. 1000 ETF 75%
+CRED Betashares Australian Investment Grade Corporate Bond ETF 70% RCB RCB RUSSELL CORPORATE BONDS 75%
+DJRE SPDR Dow Jones Global Real Estate Fund 70% RDV RUSSELL HIGH DIVIDEND AUSTRALIAN SHARES ETF 70%
+DRUG BetaShares Global Healthcare ETF - Currency Hedged 60% RGB Russell Australian Government Bond ETF 75%
+ETHI BetaShares Global Sustainability Leaders ETF 75% ROBO ETFS ROBO Global Robotics and Automation ETF 65%
+EX20 BetaShares Australian Ex-20 Portfolio Diversifier ETF 70% RSM Russell Australian Semi-Government Bond ETF 75%
+FAIR Betashares Australian Sustainability Leaders ETF 75% SFY SPDR S&P/ASX 50 FUND 70%
+GDX VanEck Vectors ETF Trust - VanEck Vectors Gold Miners ETF 60% SLF SPDR S&P/ASX 200 LISTED PROPERTY FUND 65%
+GOLD GOLD Physical Gold ETF 60% SPY SPDR S&P 500 ETF Trust 75%
+HACK BetaShares Global Cybersecurity ETF 60% STW SPDR S&P/ASX 200 FUND 75%
+HJPN BetaShares WisdomTree Japan ETF - Currency Hedged 75% SYI SPDR MSCI AUSTRALIA SELECT HIGH DIV YIELD FD 70%
+HVST Betashares Australian Dividend Harvester Fund 65% UBA UBS IQ MSCI Australia Ethical ETF 75%
+IAA iShares Trust - iShares Asia 50 ETF 60% UBW UBS IQ MSCI World ex Australia Ethical ETF 75%
+IAF ISHARES COMPOSITE BOND 75% UMAX Betashares Capital S&P 500 Yield Maximizer Fund 75%
+IEM ISHARES MSCI EMERGING MARKETS 60% USD BetaShares U.S. Dollar ETF 75%
+IEU ISHARES S&P EUROPE 350 75% VAE Vanguard FTSE Asia Ex Japan Index ETF 65%
+IGB ISHARES UBS TREASURY INDEX FUND 75% VAF Vanguard Australian Fixed Interest Index ETF 75%
+IHCB iShares Global Corp Bond UCITS ETF 75% VAP Vanguard Australian Property Securities Index ETF 70%
+IHD ISHARES S&P ASX HIGH DIVIDEND 70% VAS Vanguard Australian Shares Index ETF 70%
+IHOO Ishares Global 100 Exchange Traded Fund 75% VBND Vanguard Global Aggregate Bond Index (Hedged) ETF 75%
+IHVV iShares S&P 500 AUD Hedged ETF 70% VCF Vanguard International Credit Securities Index Fund (Hedged) 75%
+IHWL iShares Core MSCI World All Cap (AUD Hedged) ETF 75% VDGR Vanguard Diversified Growth Index ETF 75%
+IJH ISHARES S&P MIDCAP 400 70% VDHG Vanguard Diversified High Growth Index 75%
+IJP ISHARES MSCI JAPAN 75% VEQ Vanguard FTSE Europe Shares ETF 75%
+IJR ISHARES S&P SMALLCAP 600 65% VEU Vanguard All-World Ex-US Shares Indx ETF 70%
+ILB ISHARES GOVERNMENT INFLATION 75% VGAD Vanguard MSCI Index International Shares (Hedged) ETF 75%
+ILC ISHARES S&P/ASX20 75% VGB Vanguard Australian Government Bond Index ETF 75%
+IOO ISHARES S&P GLOBAL 100 75% VGE Vanguard FTSE Emerging Markets Shares ETF 65%
+IOZ ISHARES MSCI AUSTRALIA 200 75% VGS Vanguard MSCI Indes International Shares ETF 75%
+ISEC iShares Enhanced Cash ETF 75% VHY Vanguard Australian Shares High Yield ETF 75%
+ISO ISHARES S&P ASX SMALL ORDINARIES 65% VIF Vanguard International Fixed Interest Index Fund (Hedged) 75%
+IVE ISHARES MSCI EAFE 75% VLC Vanguard MSCI Australian Large Companies Index ETF 75%
+IVV ISHARES S&P 500 75% VSO Vanguard MSCI Australian Small Companies Index ETF 65%
+IWLD iShares Core MSCI World All Cap ETF 75% VTS Vanguard Us Total Market Shares Indx ETF 70%
+IXI ISHARES S&P GLOBAL CONSUMER STAPLES 65% WDIV SPDR S&P Global Dividend Fund 75%
+IZZ ISHARES FTSE/XINHUA CHINA 25 55% WDMF iShares Edge MSCI World Multifactor ETF 75%
+MICH Magellan Infrastructure Fund 70% WRLD Betashares Managed Risk Global Share Fnd 75%
+MVA VanEck Vectors Australian Property ETF 70% WVOL iShares Edge MSCI World Minimum Volatility ETF 75%
+MVB VanEck Vectors Australian Banks ETF 75% WXHG SPDR S&P World Ex Australia (Hedged) Fund 70%
+MVW VanEck Vectors Australian Equal Weight ETF 75% WXOZ SPDR S&P World Ex Australia Fund 75%
+NDQ BetaShares NASDAQ 100 ETF 65% YMAX Betashares Aust Top20 Equity Yield Max Fund 75%
+ALL RATIOS ARE AVAILABLE ON OUR WEBSITE: <http://www.westpac.com.au>
+ * Security is currently near its maximum. Westpac sets a maximum number of shares that it will accept as security for loans. Westpac may not be able to accept any further shares.
+ ** Security is currently at its maximum. No further lending is accepted against this security.
+Indicates a change in LVR from last month.
+ALL LENDING RATIOS ARE SUBJECT TO CHANGE WITHOUT NOTICE.
+PLEASE CONTACT OUR CUSTOMER RELATIONS CONSULTANTS FOR FURTHER INFORMATION ON 1300 551 744.
+The information in this document forms part of the Westpac Online Investment Loan - Product Disclosure Statement issued on 31 October 2018 by Westpac Banking Corporation ABN 33 007 457 141 and BT Securities
+Limited ABN 84 000 720 114.
+Westpac Online Investment Loan
+Approved Securities List - Effective 2 August 2019
+APIR Code Fund Name LVR APIR Code Fund Name LVR
+Advance Asset Management BTA0259AU BT Wholesale Multi Manager Aust Share 75%
+ADV0022AU Advance Defensive Multi-Blend 75% BTA0260AU BT Wholesale Multi Manager Fxd Interest 75%
+ADV0023AU Advance Balanced Multi-Blend 75% BTA0261AU BT Wholesale Multi Manager Int Share 75%
+ADV0024AU Advance Growth Multi-Blend 75% BTA0310AU BT Multi-manager Aust Share (Retail) 75%
+ADV0025AU Advance Australian Shares Multi-Blend 75% BTA0246AU BT Wholesale Multi Manager High Growth 75%
+ADV0028AU Advance International Shares Multi-Blend 75% BTA0311AU BT Multi Manager Fixed Interest Retail 75%
+ADV0029AU Advance Aust Fixed Interest Multi-Blend 75% WFS0101AU Westpac Aust Property Sec Retail 70%
+ADV0045AU Advance Ws Australian Shares Multi Blend 75% WFS0102AU BT Inv Choice Wpac All Aust Gr 75%
+ADV0049AU Advance W Defensive Multi-Blend 75% WFS0103AU Westpac All Aust Tax Effect Retail 75%
+ADV0050AU Advance W Balanced Multi-Blend 75% WFS0207AU BT PPS Invest-BlackRock Sci Divers'd Gr 75%
+ADV0053AU Advance Ws Intl Shares Multi-Blend 75% WFS0208AU BT PPS Invest-BlackRock Sci Divers'd St 75%
+ADV0056AU Advance International Share Index Whls 70% WFS0209AU BT PPSI - BlackRock W Balanced Fund 75%
+ADV0058AU Advance International Fixed Int Index W 75% WFS0211AU BT PPSI-Ws Active Balanced 75%
+ADV0060AU Advance Aust Property Securities Index W 70% WFS0214AU BT PPSI-Wpac Australian Bond 75%
+ADV0062AU Advance Australian Share Index Wholesale 75% WFS0216AU BT PPSI-Wpac Australian Growth 75%
+ADV0064AU Advance Aust Fixed Interest Index Whls 75% WFS0217AU BT PPSI-Westpac Aust Property Secs 70%
+ADV0067AU Advance Ws Intl Fixed Int Multi-Blend 75% WFS0218AU BT PPSI-Wpac Tax Effective 75%
+ADV0069AU Advance Cash Multi-Blend 85% WFS0219AU BT PPSI-Wpac Balanced Growth 75%
+ADV0082AU Advance Asian Equity 65% WFS0221AU BT PPS Invmt Westpac Diversified Growth 75%
+ADV0083AU Advance W Asian Equity 65% WFS0222AU BT PPSI-Wpac Dynamic Growth 75%
+ADV0084AU Advance Ws Aust Fixed Int Multi-Blend 75% WFS0223AU BT PPS Invmt Westpac Moderate Growth 75%
+ADV0085AU Advance Ws Growth Multi-Blend 75% WFS0224AU BT PPSI-Wpac International 75%
+ADV0086AU Advance High Growth Multi-Blend 75% WFS0227AU BT PPSI - Institutional Managed Cash Fd 100%
+ADV0087AU Advance Ws High Growth Multi-Blend 75% WFS0230AU BT PPS Invest-BlackRock Sci Intern'l Eq 75%
+ADV0088AU Advance Intl Fixed Interest Multi-Blend 75% WFS0231AU BT PPSI-W/S Asian 65%
+ADV0090AU Advance Moderate Multi-Blend 75% WFS0232AU BT PPSI-W/S Australian Share 75%
+ADV0091AU Advance Ws Moderate Multi-Blend 75% WFS0233AU BT PPSI-Ws Balanced Returns 75%
+ADV0094AU Advance Property Securities Multi-Blend 70% WFS0234AU BT PPSI-Conservative Outlook 75%
+ADV0095AU Advance Ws Prop Securities Multi-Blend 70% WFS0235AU BT PPSI-MLC Wholesale Horizon 5 Growth 75%
+WFS0236AU BT PPSI-MLC Wsale Property Securities 70%
+AMP Investment Funds WFS0237AU BT PPSI-Ws Core Aust 75%
+AMP0019AU AMP FLI-UBS Aust Small Companies 70% WFS0238AU BT PPSI-Ws Smaller Companies 65%
+WFS0245AU BT Institutional Managed Cash 100%
+Allan Gray Australia WFS0254AU BT PPSI-BT Wholesale European 75%
+ETL0060AU Allan Gray Australia Equity A 70% WFS0255AU BT PPSI-Ws International 75%
+ETL0349AU Allan Gray Australia Equity B 70% WFS0256AU BT PPSI-Colonial First State Whls Diver 75%
+WFS0257AU BT PPSI-Colonial First State High Gr W 75%
+Arrowstreet Capital Partners WFS0258AU BT PPSI-Colonial First State Whls Imput 75%
+MAQ0464AU Arrowstreet Global Equity Fund 75% WFS0261AU BT PPSI-Macq Ws Property 70%
+WFS0262AU BT PPSI-MLC Inv Aust 75%
+Ausbil Investment Management Limited WFS0263AU BT PPSI-MLC Wsale Horizon 4 Balanced 75%
+AAP0103AU AUSBIL Inv Tr Aust Actibe Equity Fd 75% WFS0264AU BT PPSI-MLC Inv Trs Global 75%
+WFS0265AU BT PPSI-MLC Wholesale Platinum Global 70%
+Bennelong Funds Management WFS0266AU BT PPSI - BlackRock W Australian Shr Fd 75%
+BFL0002AU Bennelong Concentrated Australian Equity Fd 70% WFS0268AU BT PPSI-Ws Core Global 75%
+WFS0285AU BT Institutional Aust Sustain Share 75%
+BT Investment Management WFS0288AU BT PPSI - Aberdeen SI Act Hdg Intl Eq 75%
+BTA0002AU BT Cash Management Trust 100% WFS0291AU BT PPSI-Institutional Aust Sustain Shr 75%
+BTA0011AU BT Class Invmt Split Income 75% WFS0298AU BT PPSI-Macq Master Prop Sec 70%
+BTA0012AU BT Class Invmt Split Growth 75% WFS0303AU BT PPS Invest-BlackRock Sci Aust Eq 75%
+BTA0021AU BT Australian Share Retail 75% WFS0305AU BT PPSI-Aberdeen Australian Equities 75%
+BTA0023AU BT American Share Retail 75% WFS0327AU BT Inv Ch - Wpac All Aust Tax Eff Sh NEF 75%
+BTA0024AU BT International Retail 75% WFS0329AU BT Inv Ch - Wpac Aust Prop Sec NEF 70%
+BTA0025AU BT European Share Retail 75% WFS0333AU BT Inv Ch - Wpac Moderate Growth NEF 75%
+BTA0026AU BT Asian Share Retail 65% WFS0334AU BT Inv Ch - Wpac Balanced Growth NEF 75%
+BTA0042AU BT Income Plus Retail 75% WFS0367AU BT PPSI-BT Wholesale Geared Imputation 40%
+BTA0043AU BT Class Invmt Balanced Returns 75% WFS0377AU BT Institutional Enhanced Cash 85%
+BTA0044AU BT Future Goals Retail 75% WFS0379AU BT Macquarie Diversified Fixed Interest 75%
+BTA0051AU BT Property Securities Retail 70% WFS0385AU BT Investors Mutual Industrial Share 75%
+BTA0054AU BT Wholesale Asian Share 65% WFS0387AU BT Global Property Retail 70%
+BTA0055AU BT Wholesale Australian Share 75% WFS0388AU BT State Street Australian Shares Index 75%
+BTA0056AU BT Wholesale International Share 75% WFS0389AU BT State Street Intl Shares Index 75%
+BTA0061AU BT Wholesale Property Securities 70% WFS0392AU BT PPSI-Platinum International 70%
+BTA0073AU BT Partner Aust Shares Growth 1 Retail 75% WFS0400AU BT BlackRock Indexed Aust Listed Prpty 70%
+BTA0077AU BT Multi Manager Balanced Retail 75% WFS0409AU BT Fidelity Australian Equities 75%
+BTA0078AU BT Multi Manager Conservative Retail 75% WFS0411AU BT Tyndall Australian Share 75%
+BTA0079AU BT Multi Manager High Growth Retail 75% WFS0413AU BT Colonial First State Global Resources 70%
+BTA0080AU BT Multi Manager Growth Retail 75% WFS0414AU BT DWS Global Equity Thematic 75%
+BTA0100AU BT Wholesale American Share 75% WFS0415AU BT T. Rowe Price Global Equity 75%
+BTA0124AU BT Wholesale European Share 75% WFS0416AU BT Templeton Global Equity 75%
+BTA0125AU BT Wholesale Future Goals 75% WFS0417AU BT RREEF Global Property Securities 65%
+BTA0129AU BT Premium Cash R 100% WFS0421AU BT Ausbil Australian Active Equity 75%
+BTA0131AU BT Japanese Share Retail 75% WFS0422AU BT Ausbil Emerging Leaders 70%
+BTA0173AU BT Premium Cash Fund 100% WFS0425AU BT Zurich Australian Equity Income 75%
+BTA0221AU BT Wholesale Multi Manager Balanced 75% WFS0426AU BT Enhanced Cash Retail 85%
+BTA0222AU BT Wholesale Multi Manager Conservative 75% WFS0427AU BT UBS Cash 85%
+BTA0223AU BT Wholesale Multi Manager Growth 75% WFS0428AU BT Advance Aust FixIntr Multi-Blend Retl 75%
+BTA0242AU BT Wholesale Part Aust Share Growth 1 75% WFS0429AU BT Advance Intl FixIntr Multi-Blend Retl 75%
+BTA0248AU BT Wholesale Part Intl Shares Core 1 75% WFS0430AU BT ING Diversified Fixed Interest 75%
+BTA0249AU BT Partner Intl Shares Core 1 Retail 75% WFS0432AU BT Schroder Fixed Income 75%
+WFS0433AU BT Aberdeen Emerging Opportunities 65%
+WFS0439AU BT Zurich Global Thematic Share 75%
+WFS0440AU BT Advance Defensive Multi-Blend Retail 75%
+Managed Funds
+ * Security is currently near its maximum. Westpac sets a maximum number of shares that it will accept as security for loans. Westpac may not be able to accept any further shares.
+ ** Security is currently at its maximum. No further lending is accepted against this security.
+Indicates a change in LVR from last month.
+ALL LENDING RATIOS ARE SUBJECT TO CHANGE WITHOUT NOTICE.
+PLEASE CONTACT OUR CUSTOMER RELATIONS CONSULTANTS FOR FURTHER INFORMATION ON 1300 551 744.
+ALL RATIOS ARE AVAILABLE ON OUR WEBSITE: <http://www.westpac.com.au>
+The information in this document forms part of the Westpac Online Investment Loan - Product Disclosure Statement issued on 31 October 2018 by Westpac Banking Corporation ABN 33 007 457 141 and BT Securities
+Limited ABN 84 000 720 114.
+Westpac Online Investment Loan
+Approved Securities List - Effective 2 August 2019
+APIR Code Fund Name LVR APIR Code Fund Name LVR
+WFS0441AU BT Advance Moderate Multi-Blend Retail 75% Challenger Ltd
+WFS0442AU BT Advance Balanced Multi-Blend Retail 75% PAM0001AU Alphinity Wholesale Australian Share Fund 75%
+WFS0443AU BT Advance Growth Multi-Blend Retail 75%
+WFS0444AU BT Advance High Growth Multi-Blend Retl 75% Colonial First State Funds Management
+WFS0446AU BT APN AREIT 65% FSF0264AU Colonial First State FC Geared Share Fund 40%
+WFS0447AU BT Lazard Global Listed Infrastructure 70% FSF0007AU Colonial First State Future Leaders Fund 70%
+WFS0588AU BT Index Defensive 75% FSF0041AU CFS MIF-Global Resources Fund 70%
+WFS0589AU BT Index Moderate 75%
+WFS0590AU BT Index Balanced 75% Hyperion Asset Management
+WFS0591AU BT Index Growth 75% BNT0101AU Hyperion Small Growth Companies 55%
+WFS0592AU BT Index High Growth 75%
+BTA0805AU BT Wholesale Conservative Outlook 75% Macquarie Bank Group
+BTA0806AU BT Wholesale Balanced Returns 75% MAQ0277AU Macquarie Income Opportunities Fund 55%
+RFA0002AU BT Fixed Interest Retail 75% MAQ0443AU Macquarie High Conviction Fund 70%
+RFA0011AU BT Class Invmt Core Aust Share 75%
+RFA0012AU BT Smaller Companies Retail 65% Magellan Asset Management
+RFA0013AU BT Class Invmt Natural Resources 70% MGE0001AU Magellan Global Fund 75%
+RFA0014AU BT Invmt Global Share 75%
+RFA0019AU BT Imputation Retail 75% Nikko AM Limited
+RFA0020AU BT Active Balanced Retail 75% TYN0028AU Nikko AM Tyndall Australian Share W Port 75%
+RFA0021AU BT Class Invmt Active Bal NEF 75%
+RFA0023AU BT Class Invmt Tax Effect Inc NEF 75% Pengana Capital Limited
+RFA0024AU BT Class Invmt - BT Diversified Sh NEF 75% PER0270AU Pengana Emerging Companies Trust 65%
+RFA0025AU BT Wholesale Ethical Share 75% HOW0002AU Pengana International Ethical Fund 70%
+RFA0027AU BT Class Invmt Ethical Share 75%
+RFA0030AU BT Core Hedged Global Shr Retail 75% Perpetual Funds Management
+RFA0031AU BT Wholesale Core Hedged Global Sh 75% PER0039AU Perpetual Investors Choice Smaller Companies Fund 65%
+RFA0032AU BT Wholesale Global Fixed Interest 75% PER0504AU Perpetual WFIA-T. Rowe Price Global Equity Fund 75%
+RFA0051AU BT Wholesale Global Prop Sec 70%
+RFA0059AU BT Wholesale Focus Australian Share 75% Platinum Asset Management Limited
+RFA0062AU BT Geared Imputation Retail 40% PLA0002AU Platinum International Fund 70%
+RFA0103AU BT Wholesale Imputation 75% PLA0004AU Platinum Asia Fund 65%
+RFA0130AU BT Wholesale Geared Imputation 40% PLA0006AU Platinum Unhedged Fund 70%
+RFA0811AU BT Sustainable Conservative Fund 75% PLA0100AU Platinum International Brands 70%
+RFA0813AU BT Wholesale Fixed Interest 75%
+RFA0815AU BT Wholesale Active Balanced 75% T. Rowe Price Investment Management
+RFA0817AU BT Wholesale Property Investment 70% ETL0071AU T. Rowe Price Global Equity Fund 75%
+RFA0818AU BT Wholesale Core Australian Share 75%
+RFA0819AU BT Wholesale Smaller Companies 65% Vanguard Investments Australia Ltd
+RFA0821AU BT Wholesale Core Global Share 75% VAN0003AU Vanguard International Shares Index Fund (Wholesale) 75%
+WFS0003AU BT Investor Choice Conservative Growth 75% VAN0010AU Vanguard Index Australian Shares Fund 75%
+WFS0005AU BT Inst Enhanced Global Fixed Int 75% VAN0011AU Vanguard Index International Shares Fund 75%
+WFS0011AU BT Inv Choice-Westpac Cash Mgmt Tr 100% VAN0012AU Vanguard Index Australian Property Securities Fund 70%
+WFS0013AU BT Inv Choice - Wpac Australian Bond 75% VAN0015AU Vanguard Life Strategy High Growth Fund 75%
+WFS0021AU BT Inv Choice Wpac Aust Tax Effective Sh 75% VAN0107AU Vanguard Index Hedged Int'l Shares Fund 75%
+WFS0022AU BT Inv Choice Wpac Australian Gr 75% VAN0111AU Vanguard High Growth Index Fund (Wholesale) 75%
+WFS0023AU BT Inv Choice - Wpac International Share 75%
+WFS0032AU BT Inv Choice Wpac Moderate Gr 75% Zurich Australia Limited
+WFS0033AU BT Inv Choice Wpac Balanced Gr 75% ZUR0061AU Zurich Investments Global Them Share Fund 75%
+WFS0034AU BT Inv Choice Wpac Dynamic Gr 75%
+WFS0070AU BT PPSI-Ws Part Aust Shares Gr 1 75%
+WFS0074AU BT PPSI-Ws Core Hedged Global 75%
+WFS0075AU BT PPSI-MLC Invmt Trust Inc Builder 75%
+WFS0076AU BT PPSI-Schroder Ws Aust Equity 75%
+WFS0078AU BT PPSI-UBS Australian 75%
+WFS0079AU BT PPSI-UBS International 75%
+WFS0089AU BT BlackRock Scientific Diversified Gr 75%
+WFS0090AU BT Aberdeen Actv Hdg Int'l Eq Fd 75%
+WFS0091AU BT Investors Mutual Australian Share 75%
+WFS0092AU BT Platinum International 70%
+WFS0093AU BT Schroder Australian Share 75%
+WFS0094AU BT Schroder Balanced 75%
+WFS0097AU BT UBS Defensive Investment 75%
+WFS0098AU BT UBS Diversified Fixed Income 75%
+ALL RATIOS ARE AVAILABLE ON OUR WEBSITE: <http://www.westpac.com.au>
+ * Security is currently near its maximum. Westpac sets a maximum number of shares that it will accept as security for loans. Westpac may not be able to accept any further shares.
+ ** Security is currently at its maximum. No further lending is accepted against this security.
+ALL LENDING RATIOS ARE SUBJECT TO CHANGE WITHOUT NOTICE.
+PLEASE CONTACT OUR CUSTOMER RELATIONS CONSULTANTS FOR FURTHER INFORMATION ON 1300 551 744.
+Indicates a change in LVR from last month.
+The information in this document forms part of the Westpac Online Investment Loan - Product Disclosure Statement issued on 31 October 2018 by Westpac Banking Corporation ABN 33 007 457 141 and BT Securities
+Limited ABN 84 000 720 114.

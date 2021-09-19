@@ -1,0 +1,14 @@
+version: '3'
+services:
+  api:
+    restart: always
+    build: .
+    volumes:
+      - /node/node_modules
+      - ./:/node
+    environment:
+      - SECRET_CISCO_USERNAME=peter.do@innetsol.com
+      - SECRET_CISCO_PASSWORD=IThb1234
+      - MONGODB=mongodb://192.168.5.6:27017/inventory
+    ports:
+      - '2580:3000'
